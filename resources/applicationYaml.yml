@@ -1,3 +1,6 @@
 my:
   custom:
     property: "Hello from yml"
+spring:
+  profile:
+    active: jaz
